@@ -1,5 +1,5 @@
 /*
-File:       github.com/ETmbit/arbiter-remote.ts
+File:       github.com/ETmbit/etarbiter.ts
 Version:	2026-1
 Copyright:  ElecTricks, 2026
 License:    GNU GPL 3 or later
